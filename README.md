@@ -57,3 +57,7 @@ Behavior, Returns).
 - Add a cohort retention analysis (% of each signup-month cohort still ordering N months later).
 - Build a simple churn-risk score from the RFM "At Risk" segment.
 - Swap the static CSVs for a live database connection in Power BI and set up scheduled refresh.
+
+
+https://www.linkedin.com/in/mohammed-sahil-873605394/
+mohammedsahil0116@gmail.com
